@@ -1,0 +1,8 @@
+Usage : ./main [start] [end] [num of thread]
+
+Change main to cen_idx, cen, or decen
+
+You can choose one of the 3 sets of start node and end node
+start = 2270143902; end = 1079387396
+start = 426882161; end = 1737223506
+start = 1718165260; end = 8513026827
